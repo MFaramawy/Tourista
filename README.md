@@ -15,19 +15,19 @@ For Restaurants, Cafes, Hotels, Quick Service Restaurants, Fast Food Outlets, Ba
 <img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Tourista/blob/master/3.png" align="right"/>
 <img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Tourista/blob/master/4.png" align="right"/>
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> 
 <img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Tourista/blob/master/5.png" align="right"/>
 <img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Tourista/blob/master/6.png" align="right"/>
 <img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Tourista/blob/master/7.png" align="right"/>
 <img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Tourista/blob/master/8.png" align="right"/>
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br />
 <img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Tourista/blob/master/9.png" align="right"/> 
 <img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Tourista/blob/master/10.png" align="right"/>
 <img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Tourista/blob/master/11.png" align="right"/>
 <img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Tourista/blob/master/12.png" align="right"/>
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br />
 <img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Tourista/blob/master/13.png" align="right"/>     
 <img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Tourista/blob/master/14.png" align="right"/>
 <img alt="Night Coding" width="200" src="https://github.com/MFaramawy/Tourista/blob/master/15.png" align="right"/>
